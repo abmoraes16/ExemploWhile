@@ -4,12 +4,12 @@ namespace ExemploWhile
 {
     class Program
     {
-        static double salario = 100;
+        static decimal salario = 2;
 
         static void Main(string[] args)
         {
-            while(salario<5000) {
-                Console.WriteLine(salario=salario*100);
+            while(salario<10) {
+                Console.WriteLine("Seu salario e: "+(salario*=2));
             }   
         }
     }
