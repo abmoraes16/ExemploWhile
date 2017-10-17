@@ -1,0 +1,10 @@
+c:\Users\FIC\Desktop\ProjetoAula\ExemploWhile\bin\Debug\netcoreapp2.0\ExemploWhile.deps.json
+c:\Users\FIC\Desktop\ProjetoAula\ExemploWhile\bin\Debug\netcoreapp2.0\ExemploWhile.runtimeconfig.json
+c:\Users\FIC\Desktop\ProjetoAula\ExemploWhile\bin\Debug\netcoreapp2.0\ExemploWhile.runtimeconfig.dev.json
+c:\Users\FIC\Desktop\ProjetoAula\ExemploWhile\bin\Debug\netcoreapp2.0\ExemploWhile.dll
+c:\Users\FIC\Desktop\ProjetoAula\ExemploWhile\bin\Debug\netcoreapp2.0\ExemploWhile.pdb
+c:\Users\FIC\Desktop\ProjetoAula\ExemploWhile\obj\Debug\netcoreapp2.0\ExemploWhile.csproj.CoreCompileInputs.cache
+c:\Users\FIC\Desktop\ProjetoAula\ExemploWhile\obj\Debug\netcoreapp2.0\ExemploWhile.AssemblyInfoInputs.cache
+c:\Users\FIC\Desktop\ProjetoAula\ExemploWhile\obj\Debug\netcoreapp2.0\ExemploWhile.AssemblyInfo.cs
+c:\Users\FIC\Desktop\ProjetoAula\ExemploWhile\obj\Debug\netcoreapp2.0\ExemploWhile.dll
+c:\Users\FIC\Desktop\ProjetoAula\ExemploWhile\obj\Debug\netcoreapp2.0\ExemploWhile.pdb
